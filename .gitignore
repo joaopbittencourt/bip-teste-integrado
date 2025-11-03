@@ -1,0 +1,22 @@
+/ejb-module/nbproject/private/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+*.iml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

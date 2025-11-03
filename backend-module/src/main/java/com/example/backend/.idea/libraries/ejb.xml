@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ejb">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../../../../../ejb-module/src/main/java/com/example/ejb" />
+    </SOURCES>
+  </library>
+</component>
